@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Stephen wolf",
+        "id": "1",
+        "review": "I got this a headphone as birthday  git from my wife. believe me or not the headphone is just amazing",
+        "image": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    {
+        "name": "Jon liam",
+        "id": "2",
+        "review": "it's amazing. my apartment is under construction and always its annoying me but this headphones definitely help me to escape from those horrible noises!!!!",
+        "image": "https://wac-cdn.atlassian.com/dam/jcr:ba03a215-2f45-40f5-8540-b2015223c918/Max-R_Headshot%20(1).jpg?cdnVersion=296"
+    },
+    {
+        "name": "Dave Nathan",
+        "id": "3",
+        "review": "I agree with the other low scoring reviews. I get the same hissing noise when the headphones are idle. Also their LDAC High Definition Sound only works with Android and nothing else... Something cleverly hidden in the small print.",
+        "image": "https://images.unsplash.com/photo-1566753323558-f4e0952af115?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bWFsZXxlbnwwfHwwfHw%3D&w=1000&q=80"
+    },
+    {
+        "name": "Otniel C.",
+        "id": "4",
+        "review": "I believe the pair I got are defective. the left side of the headphones play much louder then the right",
+        "image": "https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "name": "B .Willis",
+        "id": "5",
+        "review": "In terms of battery life, they compare pretty well with Bose, although Cleer Enduro at 60 hours per charge is the knockout winner.",
+        "image": "https://media.istockphoto.com/photos/doing-business-with-his-brain-picture-id589544922?k=20&m=589544922&s=612x612&w=0&h=yYM8iXK7pP5REVgy8-h9XPuoJFflfc0fErh8AGx18Z0="
+    },
+    {
+        "name": "Dave Williams",
+        "id": "6",
+        "review": "The noise cancellation is also arguably worse. While I hear less coming through on these than I do the 900s what I do hear sounds distorted and weird - making it more noticeable.",
+        "image": "https://i.dlpng.com/static/png/6761766_preview.png"
+    },
+    {
+        "name": "Kindle Customer",
+        "id": "7",
+        "review": "All the controls are touch controlled at your ear. Great sound, comfortable, fast charging. Made a great gift, and a big hit",
+        "image": "https://i.pinimg.com/originals/a5/15/71/a51571f152b23393d33f3ed7ae3d3f7e.jpg"
+    }
+]
