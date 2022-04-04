@@ -3,13 +3,13 @@ import headphone from "../../image/headphone.png"
 
 const HomePage = () => {
     return (
-        <div className='flex'>
-            <div>
-                <h1>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tenetur, ab.</h1>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure doloribus sequi eum impedit quibusdam unde odio! Velit, perferendis quae nihil dolorum similique error veniam obcaecati consequatur nam quaerat laudantium magni!</p>
+        <div className='flex px-12 pt-6 items-center max-w-7xl'>
+            <div className='text-2xl font-mono p-12'>
+                <h1 className='text-5xl text-emerald-500 font-mono font-bold pb-12'>Best Headphone for you</h1>
+                <p>GH32 is one of the best headphone of this year. This headphone is best selling headphone of our website. you can check review of our customer bellow</p>
             </div>
             <dir>
-                <img src={headphone} alt="" />
+                <img className='max-w-2xl h-[75vh]' src={headphone} alt="" />
             </dir>
         </div>
     );
