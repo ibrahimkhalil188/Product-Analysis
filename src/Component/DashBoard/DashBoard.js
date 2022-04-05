@@ -34,6 +34,7 @@ const DashBoard = () => {
                         <PolarRadiusAxis angle={30} domain={[0, 150]} />
                         <Radar name="revenue" dataKey="revenue" stroke="#46244C" fill="#46244C" fillOpacity={0.6} />
                         <Radar name="sell" dataKey="sell" stroke="#82ca9d" fill="#82ca9d" fillOpacity={0.6} />
+                        <Tooltip />
                         <Legend />
                     </RadarChart>
                 </ResponsiveContainer>

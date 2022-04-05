@@ -12,7 +12,9 @@ import Reviews from './Component/Reviews/Reviews';
 function App() {
   return (
     <div>
-      <Header></Header>
+      <div className='sticky top-0 z-10'>
+        <Header></Header>
+      </div>
       <Routes>
         <Route path='/' element={<HomePage />} />
         <Route path='home' element={<HomePage />} />
