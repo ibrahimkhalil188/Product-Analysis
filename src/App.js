@@ -1,7 +1,6 @@
 
 import { Route, Routes } from 'react-router-dom';
 import './App.css';
-import About from './Component/About/About';
 import Blogs from './Component/Blogs/Blogs';
 import DashBoard from './Component/DashBoard/DashBoard';
 import Header from './Component/Header/Header';
@@ -21,7 +20,6 @@ function App() {
         <Route path='review' element={<Reviews />} />
         <Route path='dashboard' element={<DashBoard />} />
         <Route path='blogs' element={<Blogs />} />
-        <Route path='about' element={<About />} />
         <Route path='*' element={<NotFound />} />
 
       </Routes>

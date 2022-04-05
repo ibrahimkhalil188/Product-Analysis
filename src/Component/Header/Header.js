@@ -10,7 +10,6 @@ const Header = () => {
                 <CustomLink to="review" className='md:text-xl font-mono md:pl-4 pl-2'>Review</CustomLink>
                 <CustomLink to="dashboard" className='md:text-xl font-mono md:pl-4 pl-2'>Dashboard</CustomLink>
                 <CustomLink to="blogs" className='md:text-xl font-mono md:pl-4 pl-2'>Blogs</CustomLink>
-                <CustomLink to="about" className='md:text-xl font-mono md:pl-4 pl-2'>About</CustomLink>
             </div>
         </div>
     );
