@@ -19,7 +19,7 @@ const HomePage = () => {
                 </div>
             </div>
             <div>
-                <h1 className='text-5xl font-mono font-bold py-20 text-emerald-500'>Customer reviews
+                <h1 className='text-5xl font-mono font-bold py-20 text-emerald-500 text-center'>Customer reviews
                 </h1>
                 <div className='grid grid-cols-3 text-2xl gap-4 bg-slate-900' >
                     {

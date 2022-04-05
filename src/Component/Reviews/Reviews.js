@@ -7,7 +7,7 @@ const Reviews = () => {
 
 
         <div className='bg-slate-900'>
-            <h1 className='text-5xl font-mono font-bold py-20 text-emerald-500'>Customer reviews
+            <h1 className='text-5xl font-mono font-bold py-20 text-emerald-500 text-center'>Customer reviews
             </h1>
             <div className='grid grid-cols-3 text-2xl gap-4 ' >
                 {

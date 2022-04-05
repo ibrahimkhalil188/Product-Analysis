@@ -12,7 +12,7 @@ const DashBoard = () => {
         <div>
             <div className='flex p-12'>
                 <div>
-                    <h1 className='text-4xl'>BarChart</h1>
+                    <h1 className='text-4xl text-center'>BarChart</h1>
                     <BarChart width={700} height={550} data={chart}>
                         <CartesianGrid strokeDasharray="3 3" />
                         <XAxis dataKey="month" />
@@ -24,7 +24,7 @@ const DashBoard = () => {
                     </BarChart>
                 </div>
                 <div>
-                    <h1 className='text-4xl'>RadarChart</h1>
+                    <h1 className='text-4xl text-center'>RadarChart</h1>
                     <RadarChart outerRadius={90} width={730} height={250} data={chart}>
                         <PolarGrid />
                         <PolarAngleAxis dataKey="month" />
@@ -36,8 +36,8 @@ const DashBoard = () => {
                 </div>
 
             </div>
-            <div>
-                <h1 className='text-4xl'>ComposedChart</h1>
+            <div className='p-20'>
+                <h1 className='text-4xl text-center'>ComposedChart</h1>
                 <ComposedChart width={730} height={450} data={chart}>
                     <XAxis dataKey="month" />
                     <YAxis />
